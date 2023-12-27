@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\001\\001.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\001\\001.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\001\\2023_Quantrimang.docx",
+      "PackagePath": "staticwebassets\\Upload\\Product\\001\\2023_Quantrimang.docx"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1002\\GiuongNgu.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1002\\GiuongNgu.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BanTrangDiem.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BanTrangDiem.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BanTrangDiem_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BanTrangDiem_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BanTrangDiem_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BanTrangDiem_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BanTrangDiem_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BanTrangDiem_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BanTrangDiem_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BanTrangDiem_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1003\\BoSoFa_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1003\\BoSoFa_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1004\\BoGhe.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1004\\BoGhe.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1004\\BoGhe_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1004\\BoGhe_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1005\\BoGhe_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1005\\BoGhe_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1005\\BoGhe_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1005\\BoGhe_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1006\\Sofa.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1006\\Sofa.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1006\\Sofa_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1006\\Sofa_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1006\\Sofa_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1006\\Sofa_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1007\\SofaHuong.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1007\\SofaHuong.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1007\\SofaHuong_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1007\\SofaHuong_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1007\\SofaHuong_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1007\\SofaHuong_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1008\\SofaTrang_5.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1008\\SofaTrang_5.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1009\\SofaNau.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1009\\SofaNau.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1009\\SofaNau_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1009\\SofaNau_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1009\\SofaNau_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1009\\SofaNau_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1009\\SofaNau_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1009\\SofaNau_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1009\\SofaNau_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1009\\SofaNau_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1010\\SofaTre.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1010\\SofaTre.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1010\\SofaTre_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1010\\SofaTre_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1010\\SofaTre_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1010\\SofaTre_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1011\\BoBanAn.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1011\\BoBanAn.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1011\\BoBanAn_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1011\\BoBanAn_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1011\\BoBanAn_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1011\\BoBanAn_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1011\\BoBanAn_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1011\\BoBanAn_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1012\\PhongTho.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1012\\PhongTho.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1012\\PhongTho_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1012\\PhongTho_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1012\\PhongTho_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1012\\PhongTho_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1012\\PhongTho_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1012\\PhongTho_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1013\\TuBep_5.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1013\\TuBep_5.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\1\\KeTiVi_5.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\1\\KeTiVi_5.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\2\\BoSoFa_5.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\2\\BoSoFa_5.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\3\\TuGiay.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3\\TuGiay.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\3\\TuGiay_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3\\TuGiay_1.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\3\\TuGiay_2.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3\\TuGiay_2.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\3\\TuGiay_3.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3\\TuGiay_3.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\3\\TuGiay_4.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\3\\TuGiay_4.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\4\\GiuongNgu.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\4\\GiuongNgu.png"
+    },
+    {
+      "Id": "E:\\BaiTapLon\\ShopFurniture\\Shop.Api\\wwwroot\\Upload\\Product\\4\\GiuongNgu_1.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\4\\GiuongNgu_1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shop.Api.props",
+      "PackagePath": "build\\Shop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.Api.props",
+      "PackagePath": "buildMultiTargeting\\Shop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shop.Api.props",
+      "PackagePath": "buildTransitive\\Shop.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

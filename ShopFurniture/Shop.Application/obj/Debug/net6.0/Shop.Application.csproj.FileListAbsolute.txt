@@ -1,0 +1,17 @@
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Domain.dll
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.dll
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Domain.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Application\bin\Debug\net6.0\Shop.Infrastructure.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CopyComplete
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\refint\Shop.Application.dll
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll

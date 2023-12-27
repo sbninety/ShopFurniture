@@ -1,0 +1,11 @@
+E:\BaiTapLon\ShopFurniture\Shop.Domain\bin\Debug\net6.0\Shop.Domain.deps.json
+E:\BaiTapLon\ShopFurniture\Shop.Domain\bin\Debug\net6.0\Shop.Domain.dll
+E:\BaiTapLon\ShopFurniture\Shop.Domain\bin\Debug\net6.0\Shop.Domain.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfoInputs.cache
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.AssemblyInfo.cs
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.dll
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\refint\Shop.Domain.dll
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\Shop.Domain.pdb
+E:\BaiTapLon\ShopFurniture\Shop.Domain\obj\Debug\net6.0\ref\Shop.Domain.dll
